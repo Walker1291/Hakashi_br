@@ -61,7 +61,6 @@ Como adicionar XP: +1 Exp / mensagem normal +10 Exp / comando
 📲 ${_p}tutorial
 💣💣💣💣💣💣💣💣💣💣💣💣
 ═〘 Outros 〙 ═
-📲 ${_p}destrava *📱destrava zap wb📱*
 📲 ${_p}travas *📱Vários travas zap📱*
 📲 ${_p}qr *📱texto📱*
 📲 ${_p}sticker *📱📷marque a foto📸📱*
